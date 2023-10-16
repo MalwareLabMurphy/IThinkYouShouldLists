@@ -7,4 +7,4 @@
 | \_full\_name | N/A | The full name as portrayed in ITYSL, to include nicknames in quotations. |
 | email | lower(first\_name) + "." + lower(last\_name) | Names presented in a "firstname.lastname" format, as is often seen in corporate email convention. |
 | first\_last\_name | first\_name + \\s + last\_name | Just the characters' first and last names, without middle name or nicknames where applicable. |
-| username | left(lower(first\_name), 1) + lower(last\_name) | Turning the names into a "first initial, last name" style string commonly seen as OS usernames. |
+| username | left(lower(first\_name), 1) + lower(last\_name) | Turning the names into a "first initial, last name" style string commonly seen in OS usernames. |

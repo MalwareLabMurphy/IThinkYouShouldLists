@@ -4,6 +4,6 @@
 
 | File | Permutations | Description |
 | ---- | ------------ | ----------- |
-| business\_name | N/A | Full name of the businesses as mentioned in ITYSL with all spaces and special characters intact. |
+| business\_name | N/A | Full names of the businesses as mentioned in ITYSL with all spaces and special characters intact. |
 | domain | lower(business/place\_name), remove all spaces and special characters | A list of the businesses and places formatted so they could be used for fake website or email domains. |
-| place\_name | N/A |Full name of the locations as mentioned in ITYSL with all spaces and special characters intact. |
+| place\_name | N/A |Full names of the locations as mentioned in ITYSL with all spaces and special characters intact. |
