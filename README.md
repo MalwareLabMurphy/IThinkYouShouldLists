@@ -13,4 +13,8 @@
 Not sure if it goes without saying this, but this is purely a fan project, and I have no affiliation with the talented people at Netflix, Lonely Island, Irony Point, Kanin Corp, or Corncob TV. I'm just here for the zipline.
 
 ### I don't know what is going on...
-V1.0...
+**V1.0:** The initial launch! Providing the following files for Seasons 1 and 2 (Season 3 to come with next update).
+- Wordlists for characters (S1 and S2)
+- Wordlists for locations and businesses (S1 and S2)
+- Raw CSV files
+- README files with more clever ITYSL quotes!
